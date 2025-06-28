@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/programming/user_modules/FirstDriver/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/programming/user_modules/FirstDriver/hello.ko /home/vboxuser/programming/user_modules/FirstDriver/hello.o /home/vboxuser/programming/user_modules/FirstDriver/hello.mod.o
