@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Navigate to the root directory
+cd /home/vboxuser/programming/user_modules/Linux-Device-Drivers
+
+# Ignore all dotfiles and dotfolders except .gitignore and .git
+.*
+.*/**
+!.gitignore
+!.git/
