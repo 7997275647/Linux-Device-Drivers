@@ -1,1 +1,0 @@
-savedcmd_/home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/Module.symvers -T /home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/modules.order -i Module.symvers -e 
