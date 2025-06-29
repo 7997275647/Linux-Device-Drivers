@@ -1,1 +1,1 @@
-savedcmd_/home/vboxuser/programming/user_modules/FirstDriver/modules.order := {   echo /home/vboxuser/programming/user_modules/FirstDriver/hello.o; :; } > /home/vboxuser/programming/user_modules/FirstDriver/modules.order
+savedcmd_/home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/modules.order := {   echo /home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/hello.o; :; } > /home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/modules.order

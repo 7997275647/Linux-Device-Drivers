@@ -1,1 +1,1 @@
-savedcmd_/home/vboxuser/programming/user_modules/FirstDriver/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/vboxuser/programming/user_modules/FirstDriver/"$$0) }' > /home/vboxuser/programming/user_modules/FirstDriver/hello.mod
+savedcmd_/home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/"$$0) }' > /home/vboxuser/programming/user_modules/Linux-Device-Drivers/FirstDriver/hello.mod

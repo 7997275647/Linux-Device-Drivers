@@ -7,7 +7,8 @@ static int __init hello_init(void){
 }
 
 static void __exit hello_exit(void){
-	printk("Good bye! Kernal");
+	printk("Good bye! Kernal\n");
+	printk("Module removed successfully\n");
 }
 
 module_init(hello_init);

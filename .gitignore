@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Navigate to the root directory
+cd /home/vboxuser/programming/user_modules/Linux-Device-Drivers
+
+# Find all files starting with a dot and append them to .gitignore
+find . -type f -name ".*" | sed 's|^\./||' >> .gitignore
+
+# Remove duplicate entries in .gitignore
+sort -u -o .gitignore .gitignore
